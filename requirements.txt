@@ -16,7 +16,7 @@ cycler==0.10.0
 cymem==2.0.2
 decorator==4.4.0
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2.4
+Django==2.2.10
 Flask==1.1.1
 Flask-Cors==3.0.8
 gast==0.2.2
